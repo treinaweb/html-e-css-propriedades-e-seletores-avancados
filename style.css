@@ -1,5 +1,5 @@
 body {
-    background-color: rgba(117, 166, 63, 0.652));
+    background-color: hsla(217, 100%, 50%, 0.506);
 }
 
 
@@ -7,4 +7,10 @@ body {
 red(vermelho):0
 green(verde): 100%
 blue(azul):0
+*/
+
+/*
+h= hue -> matriz - 0 > 360
+s= saturation -> saturação - 0% > 100%
+l= lightness -> brilho - 0% > 100%
 */
