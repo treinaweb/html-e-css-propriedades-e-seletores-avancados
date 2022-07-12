@@ -1,5 +1,10 @@
 body {
+    width: 100vw;
+    height: 100vh;
     background-image: url('img/gato.jpg');
+    background-size: 400px;
+    background-repeat: no-repeat;
+    background-position: left center;
 }
 
 
