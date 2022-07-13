@@ -1,21 +1,18 @@
-p {
-    border: solid 1px black;
-}
 
 .a {
-    white-space: nowrap;
+    text-decoration: overline;
 }
 
 .b {
-    white-space: pre;
+    text-decoration: line-through;
 }
 
 .c {
-    white-space: pre-wrap;
+    text-decoration: underline;
 }
 
 .d {
-    white-space: normal;
+    text-decoration: overline underline;
 }
 
 /* 
