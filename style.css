@@ -8,7 +8,10 @@ body {
     background-position: left center;
     background-size: 400px; */
 
-    background: aquamarine url('img/gato.jpg') no-repeat fixed center center / 400px;
+    /* background: aquamarine url('img/gato.jpg') no-repeat fixed center center / 400px; */
+
+    background-image: radial-gradient(ellipse,#3939b6 50%, #4bb86f, #a42222);
+
 }
 
 
