@@ -1,14 +1,14 @@
 
 .a {
-    text-transform: uppercase;
+    text-indent: -2rem;
 }
 
 .b {
-    text-transform: lowercase;
+    text-indent: 4rem;
 }
 
 .c {
-    text-transform: capitalize;
+    
 }
 
 .d {
