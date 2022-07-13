@@ -3,8 +3,8 @@ div {
     height: 150px;
     border: solid 1px black;
     background-color: aquamarine;
-    overflow-y: visible;
-    overflow-x: visible;
+    overflow-y: scroll;
+    overflow-x: scroll;
 }
 
 p {
