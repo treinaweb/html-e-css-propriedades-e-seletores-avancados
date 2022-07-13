@@ -1,18 +1,18 @@
 
 .a {
-    text-decoration: overline;
+    text-transform: uppercase;
 }
 
 .b {
-    text-decoration: line-through;
+    text-transform: lowercase;
 }
 
 .c {
-    text-decoration: underline;
+    text-transform: capitalize;
 }
 
 .d {
-    text-decoration: overline underline;
+   
 }
 
 /* 
