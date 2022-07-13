@@ -1,8 +1,16 @@
-p {
-    border: 1px solid black;
-    width: 120px;
-    word-break: normal;
+div {
+    width: 100px;
+    height: 150px;
+    border: solid 1px black;
+    background-color: aquamarine;
+    overflow-y: visible;
+    overflow-x: visible;
 }
+
+p {
+    margin: 0;
+}
+
 
 /* 
 red(vermelho):0
