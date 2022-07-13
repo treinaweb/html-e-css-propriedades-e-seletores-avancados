@@ -1,20 +1,22 @@
-body {
-    width: 100vw;
-    height: 100vh;
-    /* background-color: aquamarine;
-    background-image: url('img/gato.jpg');
-    background-repeat: no-repeat;
-    background-attachment: scroll;
-    background-position: left center;
-    background-size: 400px; */
-
-    /* background: aquamarine url('img/gato.jpg') no-repeat fixed center center / 400px; */
-
-    background-image: radial-gradient(ellipse,#3939b6 50%, #4bb86f, #a42222);
-
+p {
+    border: solid 1px black;
 }
 
+.a {
+    white-space: nowrap;
+}
 
+.b {
+    white-space: pre;
+}
+
+.c {
+    white-space: pre-wrap;
+}
+
+.d {
+    white-space: normal;
+}
 
 /* 
 red(vermelho):0
