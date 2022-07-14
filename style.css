@@ -1,6 +1,7 @@
-.lista-de-compras li {
-    background-color: blueviolet;
+ul li:nth-child(2n) {
+    background-color: crimson;
 }
+
 
 /* 
 red(vermelho):0
