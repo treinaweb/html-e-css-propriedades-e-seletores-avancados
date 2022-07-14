@@ -1,8 +1,10 @@
-.item, .item + li {
+.item {
     background-color: aquamarine;
 }
 
-
+.item ~ li {
+    background-color: brown;
+}
 
 /* 
 red(vermelho):0
