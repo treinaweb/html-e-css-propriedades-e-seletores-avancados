@@ -1,6 +1,7 @@
-ul li:nth-child(2n) {
+ul li:nth-child(-n+5) {
     background-color: crimson;
 }
+
 
 
 /* 
