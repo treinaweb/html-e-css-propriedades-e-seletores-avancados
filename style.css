@@ -1,14 +1,7 @@
-div {
-    width: 100px;
-    height: 150px;
-    border: solid 1px black;
+.item, .item + li {
     background-color: aquamarine;
-    overflow: scroll;
 }
 
-p {
-    margin: 0;
-}
 
 
 /* 
