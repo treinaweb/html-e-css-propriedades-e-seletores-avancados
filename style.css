@@ -1,9 +1,5 @@
-.item {
-    background-color: aquamarine;
-}
-
-.item ~ li {
-    background-color: brown;
+.lista-de-compras li {
+    background-color: blueviolet;
 }
 
 /* 
