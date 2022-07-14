@@ -1,4 +1,4 @@
-ul li:nth-child(-n+5) {
+ul li:last-child {
     background-color: crimson;
 }
 
