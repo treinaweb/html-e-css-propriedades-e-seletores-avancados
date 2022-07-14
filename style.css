@@ -1,6 +1,22 @@
-ul li:last-child {
+ul li:hover {
     background-color: crimson;
 }
+
+a:visited {
+    color: aquamarine;
+}
+
+a:hover {
+    color: black;
+}
+a:active {
+    color: red;
+}
+
+input:focus {
+    background-color: blueviolet;
+}
+
 
 
 
